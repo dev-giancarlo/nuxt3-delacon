@@ -1,6 +1,6 @@
 {
 	"name": "nuxt3-delacon",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A Nuxt 3 module for integrating Delacon call tracking into your Nuxt 3 application.",
 	"main": "./lib/index.js",
 	"type": "module",
