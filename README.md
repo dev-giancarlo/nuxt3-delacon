@@ -2,14 +2,14 @@
 
 A nuxt module for integrating Delacon call tracking into your Nuxt 3 application.
 
-<a href="https://npm-stat.com/charts.html?package=vue3-carousel"><img src="https://img.shields.io/npm/dm/nuxt3-delacon.svg" alt="npm"/></a>
+<a href="https://npm-stat.com/charts.html?package=nuxt3-delacon"><img src="https://img.shields.io/npm/dm/nuxt3-delacon.svg" alt="npm"/></a>
 
 ## Getting Started
 
 
 ### Installation
 
-First step is to install it using `yarn` or `npm`:
+First step is to install it using `npm` or `yarn`:
 
 ```bash
 npm install nuxt3-delacon
@@ -32,7 +32,7 @@ export default defineNuxtConfig({
   ]
 })
 ```
-Replace 'your-mid' and 'your-cid' with your actual Delacon MID and CID values.
+Replace `'your-mid'` and `'your-cid'` with your actual Delacon MID and CID values.
 
 ### Options
 
